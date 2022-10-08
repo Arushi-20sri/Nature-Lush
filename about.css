@@ -1,0 +1,131 @@
+  body {
+      font-size: 30px;
+  }
+  
+  .yes {
+      background-image: linear-gradient( rgba(0, 0, 0, 0.75), rgba(29, 27, 27, 0.75)), url(https://media.istockphoto.com/photos/makeup-brushes-set-closeup-on-a-black-background-horizontal-sp-picture-id622988068?k=6&m=622988068&s=170667a&w=0&h=YIWZgsoUGR1FMWt7PilcJNnt0vFW2myqt0uxpls7kBM=);
+      text-align: center;
+      font-size: 20px;
+      color: whitesmoke;
+  }
+  
+  h1 {
+      margin-top: 0cm;
+      text-align: center;
+      color: whitesmoke;
+      font-family: "Sofia", sans-serif;
+      font-size: 55px;
+      text-shadow: 1px 1px 1px #646262;
+      text-decoration: whitesmoke;
+      opacity: 95%;
+  }
+  
+  .two,
+  .three,
+  .four,
+  .five,
+  .eight,
+  .achpara,
+  .brandspara,
+  ul {
+      font-family: 'Open Sans', serif;
+  }
+  
+  .one,
+  .six,
+  .seven,
+  .achievements,
+  .brands {
+      font-family: "Sofia", sans-serif;
+      font-size: 30px;
+      text-align: center;
+      color: #06434e8e;
+  }
+  
+  .two {
+      font-size: 30px;
+      text-align: center;
+      color: #06434e8e;
+      margin-top: 0cm;
+  }
+  
+  .three,
+  .five,
+  .eight {
+      font-size: 15px;
+      margin-left: 7cm;
+      margin-right: 7cm;
+      text-indent: inherit;
+      word-spacing: 0.13cm;
+      line-height: 0.7cm;
+      letter-spacing: 0.03cm;
+      opacity: 77%;
+  }
+  
+  .four {
+      opacity: 79%;
+  }
+  
+  img {
+      float: left;
+  }
+  
+  .eight {
+      margin-top: 1.5cm;
+      margin-left: 53%;
+      margin-right: 2cm;
+  }
+  
+  #pic3 {
+      float: right;
+  }
+  
+  .achievements {
+      margin-left: 1cm;
+      margin-top: 1.7cm;
+  }
+  
+  .achpara,
+  .three {
+      font-size: 15px;
+      margin-left: 1.3cm;
+      margin-right: 53%;
+      text-indent: inherit;
+      word-spacing: 0.13cm;
+      line-height: 0.7cm;
+      letter-spacing: 0.03cm;
+      opacity: 77%;
+  }
+  
+  .three {
+      margin-right: 54%;
+  }
+  
+  #we {
+      float: right;
+  }
+  
+  .brands {
+      margin-top: 2cm;
+  }
+  
+  .one,
+  .seven {
+      margin-top: 2cm;
+  }
+  
+  .one {
+      margin-top: 1cm;
+  }
+  
+  .brandspara,
+  ul {
+      font-size: 15px;
+      margin-left: 54%;
+      margin-right: 2cm;
+      text-indent: inherit;
+      word-spacing: 0.13cm;
+      line-height: 0.7cm;
+      letter-spacing: 0.03cm;
+      opacity: 77%;
+  }
